@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phumipat Wongdaw</h1>
-<h3 align="center">A Developer from Thailand 🇹🇭</h3>
+<h1 align="center">Hi 👋, I'm A Developer from Thailand 🇹🇭</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Phumipat-2005&label=Profile%20Views&color=61dafb&style=flat" alt="Views" />
