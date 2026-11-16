@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm A Developer from Thailand 🇹🇭</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Phumipat-2005&label=Profile%20Views&color=61dafb&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kurono-Motomu&label=Profile%20Views&color=61dafb&style=flat" alt="Views" />
 </p>
 
 <p align="center">
@@ -49,9 +49,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phumipat-2005/Phumipat-2005/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phumipat-2005/Phumipat-2005/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Phumipat-2005/Phumipat-2005/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kurono-Motomu/Kurono-Motomu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kurono-Motomu/Kurono-Motomu/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Kurono-Motomu/Kurono-Motomu/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 
@@ -60,7 +60,7 @@
 ### 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phumipat-2005&theme=tokyonight&hide_border=true" alt="Streak Stats" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kurono-Motomu&theme=tokyonight&hide_border=true" alt="Streak Stats" width="95%" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
   <a href="mailto:Phumipat561101@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/Phumipat-2005">
+  <a href="https://github.com/Kurono-Motomu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
